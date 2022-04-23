@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(250, 249, 246);
+    color: rgb(112, 123, 124);
+    font-family: 'Space Mono', monospace;
+}
+
+.main {
+    padding: 15px 50px;
+}

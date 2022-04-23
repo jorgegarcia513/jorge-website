@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(250, 249, 246);
+    color: rgb(112, 123, 124);
+    font-family: 'Space Mono', monospace;
+}
+
+.top-bar {
+    border-bottom-style: dashed;
+    border-color: rgb(112, 123, 124);
+    border-width: 1px;
+    font-family: 'Space Mono', monospace;
+
+}
+
+.bottom {
+    padding: 15px 50px;
+    border-top-style: dashed;
+    border-color: rgb(112, 123, 124);
+    border-width: 1px;
+}
+
+.top-bar {
+    margin-top: 75px;
+    font-family: 'Space Mono', monospace;
+}
+
+a.override-bs {
+    color: rgb(112, 123, 124);
+    font-family: 'Space Mono', monospace;
+}
+
+a.override-bs:hover {
+    color: rgb(112, 123, 124);
+    text-decoration: underline;
+    font-family: 'Space Mono', monospace;
+}
+
+#resume-frame {
+    display: none;
+}
+
+#about-frame {
+    display: none;
+}
+
+
+

@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(250, 249, 246);
+    color: rgb(112, 123, 124);
+    font-family: 'Space Mono', monospace;
+}
+
+.date {
+    text-align: right;
+    float: right;
+    font-style: italic;
+}
+
+.title {
+    float: left;
+    font-style: italic;
+}
+
+.location {
+    float: right;
+}
+
+.main {
+    padding: 15px 50px;
+}
+
+.company {
+    float: left;
+    font-weight: bold;
+}
+
+.entry {
+    padding-bottom: 15px;
+}
+
+.date, .title, .location, .company {
+    font-size: 13px;
+}
+
+.points {
+    font-size: 12px;
+}
+
+.entry-header {
+
+}
+
