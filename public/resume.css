@@ -44,3 +44,18 @@ body {
 
 }
 
+.top-bar {
+    border-bottom-style: dashed;
+    border-color: rgb(112, 123, 124);
+    border-width: 1px;
+    font-family: 'Space Mono', monospace;
+    margin-top: 75px;
+    font-family: 'Space Mono', monospace;
+}
+
+.bottom {
+    padding: 15px 50px;
+    border-top-style: dashed;
+    border-color: rgb(112, 123, 124);
+    border-width: 1px;
+}

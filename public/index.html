@@ -40,9 +40,10 @@
         })
       })
     </script>
-    <link rel="stylesheet" href="css/home.css">
-    <link rel="stylesheet" href="css/resume.css">
-    <link rel="stylesheet" href="css/about.css">
+    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="resume.css">
+    <link rel="stylesheet" href="about.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet"/>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -55,19 +56,10 @@
     <div class="row ">
       <div class="col-12">
         <div class="nav nav-fill">
-          <button class="nav-item nav-link override-bs" onclick="frameToggle()">Home</button>
-          <button class="nav-item nav-link override-bs" onclick="frameToggle()">Resume</button>
+          <a class="nav-item nav-link override-bs" href="index.html">Home</a>
+          <a class="nav-item nav-link override-bs" href="resume.html">Resume</a>
           <a class="nav-item nav-link override-bs" href="asdf">Projects</a>
           <a class="nav-item nav-link override-bs" href="asdf">GitHub</a>
-        
-          <script>
-            function frameToggle() {
-              var frame = document.getElementById("resume-frame")
-              if (frame.style.display === "none") {
-                frame.style.display = "block";
-              }
-            }
-          </script>
         </div>
       </div>
     </div>
@@ -76,8 +68,6 @@
   <div class="container-fluid main">
     <div class="row">
       <div class="col-12">
-        <div id="about-frame" data-include="about"></div>
-        <div id="resume-frame" data-include="resume"></div>
       </div>
     </div>
   </div>
