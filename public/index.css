@@ -19,7 +19,7 @@ body {
 }
 
 .top-bar {
-    margin-top: 75px;
+    margin-top: 20px;
     font-family: 'Space Mono', monospace;
 }
 
@@ -34,3 +34,17 @@ a.override-bs:hover {
     font-family: 'Space Mono', monospace;
 }
 
+img {
+    float: left;
+}
+
+.bio {
+    float: right;
+    width: 80%;
+}
+
+#name {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
