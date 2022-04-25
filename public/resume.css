@@ -19,7 +19,6 @@
 
 .company {
     float: left;
-    font-weight: bold;
 }
 
 .entry {
@@ -32,4 +31,8 @@
 
 .points {
     font-size: 12px;
+}
+
+.entry-header {
+    font-weight: bold;
 }

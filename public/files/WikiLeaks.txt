@@ -1,0 +1,108 @@
+﻿WikiLeaks
+        The 2016 US Election, along with the impact that hackers had on the results, is unsurprisingly still a topic that is highly debated. The Democratic nominee Hillary Clinton was the victim of some of the leaks that occurred during the election cycle, having her private emails during her time as Secretary of State released by WikiLeaks. While Republicans were having a field day with these leaks, it further escalated the already steep hill that Clinton was attempting to climb. The specifics of these leaks, while important, are not the focus of this, instead I think it’s important to understand who WikiLeaks are, why and how they do what they do, and the implications this has on cybersecurity as technology continues to progress.
+        From films, to everyday news we are given an endless number of representations of who hackers are and what they do. These representations can sometimes misguide the common person. Hollywood makes hacking look extremely “sexy” if you will, when in reality it is a lot less visually stimulating as what is portrayed. A more nitpicky misconception is the association of WikiLeaks with the hackers who acquired the information released in the leaks. It could be a bit snobby to focus on this point, but to fully understand the role that WikiLeaks played in the 2016 election it's important to understand who WikiLeaks really are. WikiLeaks is a non-profit organization founded in 2006 that serves as a medium to publish censored and sensitive information regarding corruption in all its forms. They describe themselves on their website as a multi-national media organization whose purpose is to “bring important news and information to the public… One of our most important activities is to publish original source material alongside our news stories so readers and historians alike can see evidence of the truth.” The easiest way to picture what exactly they do is to think of them as a library for data leaks. WikiLeaks is not some basement dwelling hacking organization like Anonymous, but a professional media organization with connections to hundreds of media organizations across the globe.
+        So if WikiLeaks isn’t a hacking organization, how do they get the information that they publish? Basically the same way any other news organization gets their information. WikiLeaks has over a hundred different staff members around the world, including their own journalists who either get tipped off, receive a scoop, or do their own due diligence. The major differences include the type of content WikiLeaks choses to publish, and the sources of their information.
+WikiLeaks allows anyone in the world to submit information, this isn’t exclusive to WikiLeaks as tips have existed for news outlets forever, but WikiLeaks was one of the earliest prominent news organizations to ensure security for their submitters. As of right now they have a whole wiki page on their website that outlines the security measures taken to ensure the protection of the user submitting, along with the information they are submitting. This includes “bank grade encryption” along with routing submissions through Swedish and Belgium to make use of their press secrecy laws. They offer other ways to submit data including more precautionary steps for “high risk” submissions. This level of protection is what allows people capable of obtaining restricted information to safely submit it somewhere will it be made available to the public. The type of person in possession of this type of information can range from a disgruntled politician wanting to do the right thing, to a “basement dwelling hackers” looking to start some chaos. Establishing their dedication to the safety of users is what has allowed them to receive and publish some of the most controversial data leaks that the US has seen.
+        The media could not get enough of WikiLeaks during the 2016 US presidential election cycle. To summarize a wildly complex series of events as quickly as possible: hackers, including state funded hackers from Russia, gained access to and leaked a number of emails from Clinton, Clinton’s campaign manager, and other Democratic National Committee personnel. These materials were spread across the internet like wildfire, with the most popular publication at the forefront of the discussion being WikiLeaks. Any leaks published by WikiLeaks are posted on their official website (www.wikileaks.org) after undergoing review and analysis by their staff. Upon publication of Clinton’s emails, they also built a page on their website with a search engine so that anyone could query all of her released emails. This is only one example of WikiLeaks publishing restricted information regarding US officials. Other examples include the Guantanamo Bay leaks, Iraq War documents, and the diplomatic cables leak, all of which being historic moments in US history caused by WikiLeaks.
+Now, in a perfect world, WikiLeaks is a great idea as it allows for transparency between the general populace and those running everything, but like any other news outlet WikiLeaks is run by humans susceptible to personal bias and selfishness. All materials submitted to WikiLeaks are manually reviewed for authenticity before being published on their official site. WikiLeaks has been criticized for appearing anti Clinton and pro Trump due to the number of damaging leaks regarding Clinton released during the 2016 election cycle. Their motivations and connections to specific countries, namely Russia, have been a constant point of scrutinization. The ability for anyone to submit information anonymously is widely appealing to someone looking to do damage to another’s career or country. WikiLeaks is not without its flaws, and like any other media outlet, they should be subject to scrutinization to ensure they uphold their self-written purpose. A publication on the front page of WikiLeaks has global implications, and in the wrong hands that sort of power can be unimaginably damaging. It does not have to be WikiLeaks itself, but it's important for a medium like WikiLeaks to exist to keep those in power in check.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why Julian Assange and WikiLeaks Aren’t Heroes | BU Today | Boston University. (2017, January 13). Boston University. https://www.bu.edu/articles/2017/julian-assange-wikileaks-not-heroes/
+Q: Could U.S. Prosecute Reporters For Classified Scoops? A: Maybe. (2017, March 22). NPR.org. https://www.npr.org/sections/thetwo-way/2017/03/22/521009791/q-could-u-s-prosecute-reporters-for-classified-scoops-a-maybe
+Flick, C. (2018, July 20). What Hollywood gets right and wrong about hacking. The Conversation. https://theconversation.com/what-hollywood-gets-right-and-wrong-about-hacking-100126
+HOOD, C. (2011). From FOI World to WikiLeaks World: A New Chapter in the Transparency Story? Governance, 24(4), 635–638. https://doi.org/10.1111/j.1468-0491.2011.01546.x
+Nakashima, E., & Harris, S. (2018, July 13). How the Russians hacked the DNC and passed its emails to WikiLeaks. Washington Post; The Washington Post. https://www.washingtonpost.com/world/national-security/how-the-russians-hacked-the-dnc-and-passed-its-emails-to-wikileaks/2018/07/13/af19a828-86c3-11e8-8553-a3ce89036c78_story.html
+Sources: 
+* How the Russians hacked the DNC and passed its emails to WikiLeaks
+* WikiLeaks Wiki
+* Archived Version of WikiLeaks Submissions page from 2008
+* Why Julian Assange and WikiLeaks Aren’t Heroes
+* Q: Could U.S. Prosecute Reporters For Classified Scoops? A: Maybe
+* WikiLeaks About Page
+* Defend Wiki Leaks Website
+* WikiLeaks Twitter
+* What Hollywood gets right and wrong about hacking
+* From FOI World to WikiLeaks World: A New Chapter in the Transparency Story?
+
+
+‌

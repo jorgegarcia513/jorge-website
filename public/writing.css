@@ -1,0 +1,9 @@
+.writing-samples {
+    padding: 15px 50px;
+}
+
+.writing-samples p, .writing-samples a {
+    border-bottom-style: dashed;
+    border-color: rgb(112, 123, 124);
+    border-width: 1px;
+}

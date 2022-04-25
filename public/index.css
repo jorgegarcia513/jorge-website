@@ -4,6 +4,10 @@ body {
     font-family: 'Space Mono', monospace;
 }
 
+.name {
+    font-weight: bold;
+}
+
 .top-bar {
     border-bottom-style: dashed;
     border-color: rgb(112, 123, 124);
